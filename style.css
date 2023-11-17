@@ -1,5 +1,5 @@
 body {
-    background: rgb(0, 0, 0);
+    background: rgb(1, 255, 170);
 
 
 } 
@@ -14,5 +14,5 @@ p { text-align: center;
 }
 
 em strong{ 
-  color:rgb(22, 13, 201);
+    color: green;(22, 13, 201);
 }
