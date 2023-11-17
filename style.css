@@ -1,16 +1,15 @@
 body {
     background: rgb(1, 255, 170);
 
-
 } 
 
-h1 {
+#titulo {
   text-align:center;
   font-size; 45px;
 }
-
-p { text-align: center;
- font-size: 30px;
+.texto { 
+text-align: center;
+font-size: 30px;
 }
 
 em strong{ 
