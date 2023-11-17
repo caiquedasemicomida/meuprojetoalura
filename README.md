@@ -1,6 +1,6 @@
 # meuprojetoalura
 <DOCTYPE html></DOCTYPE>
-<htmllang=""pt-br">
+<html lang=""pt-br">
 
 <head>
 <title><h1><b>O profissional de educação fisica<b></h1><em>HTML</em> e <em>CSS</em></b></h1></title><link rel="stylesheet" href=tyle.css">
